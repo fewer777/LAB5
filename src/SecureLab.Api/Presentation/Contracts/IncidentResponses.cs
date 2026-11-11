@@ -1,5 +1,6 @@
 namespace SecureLab.Api.Presentation.Contracts;
 
+
 public sealed record IncidentListItemResponse(
     Guid Id,
     string Title,
